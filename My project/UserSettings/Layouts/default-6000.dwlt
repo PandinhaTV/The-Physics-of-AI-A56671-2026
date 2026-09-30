@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 238
+  controlID: 41
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 239
+  controlID: 42
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 292
+  controlID: 43
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -627,12 +627,12 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 47068
+    - m_Data: 46864
     m_LastClickedID:
-      m_Data: 47068
+      m_Data: 46864
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 46864
+    - m_Data: 46928
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -665,7 +665,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 46864
+    - m_Data: 46928
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -693,8 +693,8 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 46638
-    m_LastClickedInstanceID: 46638
+    - m_Data: 46648
+    m_LastClickedInstanceID: 46648
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -822,14 +822,12 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -1402
-      - m_Data: -1374
-      - m_Data: -1368
-      - m_Data: -1340
+      - m_Data: -1404
+      - m_Data: -1376
+      - m_Data: -1338
       - m_Data: -1336
-      - m_Data: -12
-      - m_Data: 46638
-      - m_Data: 46676
+      - m_Data: 46642
+      - m_Data: 46680
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1450,9 +1448,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -4.2656083, y: -19.303068, z: 32.085526}
+    m_Target: {x: -0.62528527, y: 1.2421255, z: 5.3606167}
     speed: 2
-    m_Value: {x: -4.2656083, y: -19.303068, z: 32.085526}
+    m_Value: {x: -0.62528527, y: 1.2421255, z: 5.3606167}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1498,13 +1496,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.3300022, y: -0.0051003946, z: 0.0017825923, w: -0.9439685}
+    m_Target: {x: 0.24281119, y: 0.11030373, z: -0.027801026, w: 0.96338207}
     speed: 2
-    m_Value: {x: -0.3300022, y: -0.0051003946, z: 0.0017825924, w: -0.9439685}
+    m_Value: {x: -0.24281119, y: -0.11030373, z: 0.027801028, w: -0.96338207}
   m_Size:
-    m_Target: 25.223475
+    m_Target: 6.9187393
     speed: 2
-    m_Value: 25.223475
+    m_Value: 6.9187393
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1562,7 +1560,7 @@ MonoBehaviour:
     x: 363
     y: 79
     width: 1101
-    height: 626
+    height: 597
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1582,7 +1580,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 1101, y: 605}
+  m_TargetSize: {x: 1101, y: 576}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1599,8 +1597,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -550.5
     m_HBaseRangeMax: 550.5
-    m_VBaseRangeMin: -302.5
-    m_VBaseRangeMax: 302.5
+    m_VBaseRangeMin: -288
+    m_VBaseRangeMax: 288
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1619,9 +1617,9 @@ MonoBehaviour:
       x: 0
       y: 21
       width: 1101
-      height: 605
+      height: 576
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 550.5, y: 302.5}
+    m_Translation: {x: 550.5, y: 288}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -1629,12 +1627,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -550.5
-      y: -302.5
+      y: -288
       width: 1101
-      height: 605
+      height: 576
     m_MinimalGUI: 1
   m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1101, y: 626}
+  m_LastWindowPixelSize: {x: 1101, y: 597}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
